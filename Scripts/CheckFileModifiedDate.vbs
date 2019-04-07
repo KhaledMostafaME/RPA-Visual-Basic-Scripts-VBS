@@ -1,4 +1,7 @@
 'Developed and Edited by Khaled Mostafa
+'####### Usage #######
+'Pass full file path with extension as a parameter 
+'For More info: https://github.com/KhaledMostafaME
 
 Dim Fso, Msg, FileObj, FilePath
 Set Fso = CreateObject("Scripting.FileSystemObject") 'Creates "FileSystemObject" Object.
