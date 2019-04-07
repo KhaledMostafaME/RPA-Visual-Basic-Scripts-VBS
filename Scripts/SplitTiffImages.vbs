@@ -1,3 +1,10 @@
+'Developed and Edited by Khaled Mostafa
+'####### Usage #######
+'Parameter 1: Pass full TIFF file path with extension
+'Parameter 2: Pass full path of save location 
+'Parameter 3: Pass extension type of the output image with dot. ie -> .jpg .png .jpeg .tiff .tif
+'For More info: https://github.com/KhaledMostafaME
+
 Dim Img, myPage, v, lp 
 Set Img = WScript.CreateObject("WIA.ImageFile")
 
