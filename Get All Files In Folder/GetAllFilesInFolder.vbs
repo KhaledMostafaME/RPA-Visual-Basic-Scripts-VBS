@@ -11,11 +11,11 @@
 'For More info: https://github.com/KhaledMostafaME
 
 Set objFSO = CreateObject("Scripting.FileSystemObject")
-objStartFolder = "C:\Users\Khaled\Desktop"
+objStartFolder = WScript.Arguments.Item(0)
 Set objFolder = objFSO.GetFolder(objStartFolder)
 Dim Files
 Set colFiles = objFolder.Files
 For Each objFile in colFiles
     Files = Files + objFile.Name + " "
 Next
-WScript.StdOut.WriteLine(Files)
+WScript.StdOut.Write(Files)
