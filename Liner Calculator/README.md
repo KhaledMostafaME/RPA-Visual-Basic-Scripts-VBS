@@ -1,4 +1,5 @@
 Input Liner Math Operation(String): Math operation surrounded by quotations, or as a viarble. 
+
 Output Result (String): Calculation result.
 
 Accepted operations: "+","-","*","/","%"
