@@ -1,8 +1,11 @@
-Input1 (String): Full XLSX path with extension.
-Input2 (String): Full XLS path with extension.
-Output (String): N/A.
+**Input1 (String):** Full file path with extension XLSX.  
+**Input2 (String):** Full file path with extension XLS.  
+**Output (String):** N/A.
 
-Note: For Automation Anywhere separate the parameters with space.
+**Example:** `"C:\Users\Khaled\Desktop\Book1.xlsx" "C:\Users\Khaled\Desktop\Book1.xls"`  
 
-MIT License
-Copyright (c) 2019 Khaled Mostafa
+**Note:** For Automation Anywhere separate the parameters with space.  
+**Note:** If any input has space surround it with quotations.  
+
+**MIT License**  
+**Copyright (c) 2019 Khaled Mostafa**

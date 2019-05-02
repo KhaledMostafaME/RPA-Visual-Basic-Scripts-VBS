@@ -1,5 +1,10 @@
-Input (String): Full folder path as a parameter and without quotations
-Output (String): Listing all the files in one string.
+**Input (String):** Full file path with extension.  
+**Output (String):** Listing all the files in one string.
 
+**Example:** `"C:\Users\Khaled\Desktop"`  
 
-MIT License Copyright (c) 2019 Khaled Mostafa
+**Note:** For Automation Anywhere separate the parameters with space.  
+**Note:** If any input has space surround it with quotations.  
+
+**MIT License**  
+**Copyright (c) 2019 Khaled Mostafa**
