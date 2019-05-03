@@ -19,3 +19,4 @@ For Each objFile in colFiles
     Files = Files + objFile.Name + " "
 Next
 WScript.StdOut.Write(Files)
+WScript.Quit
