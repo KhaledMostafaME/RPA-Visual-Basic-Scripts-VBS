@@ -12,7 +12,7 @@ Next
 Do While Instr( strExpr, Space(2))
   strExpr = Trim( Replace( strExpr, Space(2), Space(1)))
 Loop
-result = Eval(strExpr)
+Result = Eval(strExpr)
 
 ' Error Handler
 If Err.Number <> 0 Then
@@ -20,6 +20,6 @@ If Err.Number <> 0 Then
 	Err.Clear
 	WScript.Quit
 	Else
-	WScript.StdOut.Write(result)
+	WScript.StdOut.Write(Result)
 End If
 WScript.Quit

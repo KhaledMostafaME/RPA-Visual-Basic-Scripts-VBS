@@ -1,6 +1,6 @@
 **Input1 FilePath (String):** Full file path with extension as a parameter.  
 **Input2 SheetName (String):** Sheet Name.  
-**Input2 RowNumber (String):** Row Number.  
+**Input3 RowNumber (String):** Row Number.  
 **Output Boolean (String):** 0 or 1.  
 
 **Example:** `"C:\Users\Khaled\Desktop\Book1.xlsx" "Sheet1" "5"`  
