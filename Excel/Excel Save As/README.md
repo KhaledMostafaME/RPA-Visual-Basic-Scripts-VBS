@@ -6,6 +6,7 @@
 **Example (Save As CSV):** `"C:\Users\Khaled\Desktop\Book1.xlsx" "Sheet1" "C:\Users\Khaled\Desktop\Book3" "23"`
 
 **Type of Extension**  
+
 | Name                          | Value     | Description                               | Extension                |
 |-------------------------------|-----------|-------------------------------------------|--------------------------|
 | xlAddIn                       | 18        | Microsoft Excel 97-2003 Add-In            | *.xla                    |
