@@ -1,5 +1,5 @@
 **Input1 Source (String):** Input String
-**Input2 StringToCount (String):** The string of character to count.  
+**Input2 Character (String):** The character to count.  
 **Output Count (String):** N/A.  
 
 **Example:** `"a/b/c/d or a/b" "/"`
