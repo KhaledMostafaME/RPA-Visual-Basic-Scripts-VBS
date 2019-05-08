@@ -4,9 +4,8 @@
 **Output Date (String):** The result of the date operation.  
 
 **Example:** `"01/04/2019" 5 d`   
-**For More Examples:** https://www.w3schools.com/asp/func_dateadd.asp
 
-**Interval Types:**   
+**Interval Types:**   https://www.w3schools.com/asp/func_dateadd.asp
 
 | Interval | Description  |
 |----------|--------------|
