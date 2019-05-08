@@ -1,0 +1,5 @@
+InputDate = WScript.Arguments.Item(0)
+Value = WScript.Arguments.Item(1)
+Interval = WScript.Arguments.Item(2)
+Result = DateAdd(Interval, Value, InputDate)
+WScript.StdOut.Write(Result)
