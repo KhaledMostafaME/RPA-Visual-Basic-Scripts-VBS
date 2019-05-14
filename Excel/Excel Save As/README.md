@@ -1,7 +1,7 @@
 **Input1 InputFile (String):** Full file path with extension as a parameter.  
 **Input2 SheetName (String):** Sheet Name.  
 **Input3 OutputFile (String):** Full file path with or without as a parameter.  
-**Input4 Extension (String):** N/A.  
+**Input4 Extension (String):** The code of the extension from the below table. 
 
 **Example (Save As CSV):** `"C:\Users\Khaled\Desktop\Book1.xlsx" "Sheet1" "C:\Users\Khaled\Desktop\Book3" "23"`
 
